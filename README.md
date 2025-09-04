@@ -1,2 +1,2 @@
-this is my 100 days of code 
+100 days of code 
 
